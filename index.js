@@ -1,5 +1,5 @@
 function isConvert(string) {
-	return `Created by ${string} yogendra singh`;
+	return `Created by yogendra singh ${string} `;
 }
 
 module.exports = isConvert;

@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:foxglovetechno/react-native-onboarding.git"
+		"url": "git@github.com-foxglovetechno:foxglovetechno/react-native-onboarding.git"
 	},
 	"author": "Yogendra Singh",
 	"license": "ISC",
