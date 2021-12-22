@@ -1,0 +1,19 @@
+{
+	"name": "react-native-onboarding",
+	"version": "1.0.0",
+	"description": "It's shows onboarding screen",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:foxglovetechno/react-native-onboarding.git"
+	},
+	"author": "Yogendra Singh",
+	"license": "ISC",
+	"name": "@foxglovetechno/react-native-onboarding",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	}
+}
